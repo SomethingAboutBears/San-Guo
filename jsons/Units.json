@@ -169,7 +169,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"promotions":["[Formation Breaker] ability"],
-		"uniques":["[+10]% strength <when fighting units from a Civilization with more Cities than you>","[+50]% Strength <vs [Mounted] units>"],
+		"uniques":["[+10]% Strength <when fighting units from a Civilization with more Cities than you>","[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	}
 ]
