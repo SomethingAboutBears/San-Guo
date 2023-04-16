@@ -64,7 +64,7 @@
 		"outerColor": [255,210,229],
 		"innerColor": [45,109,105],
 		"uniqueName": "Benevolent Mandate",
-		"uniques": ["[+100]% Production when constructing [Courthouse] buildings <in annexed cities>","[+2 Happiness] <in cities with a [Courthouse]>","[+10]% [Production] <while the empire is happy>"],
+		"uniques": ["[+100]% Production when constructing [Courthouse] buildings [in annexed cities]","[+2 Happiness] <in cities with a [Courthouse]>","[+10]% [Production] <while the empire is happy>"],
 		"cities": ["Chengdu"]
 	},
 	{

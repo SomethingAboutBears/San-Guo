@@ -12,7 +12,7 @@
         "uniques": ["[+50]% Strength <vs [Mounted] units>"]
     },
     {
-        "name": "[Royal GUard] ability",
-        "uniques": ["[+25]% Strength <in [City] tiles>"]
+        "name": "[Royal Guard] ability",
+        "uniques": ["[+25]% Strength <when defending>"]
     }
 ]

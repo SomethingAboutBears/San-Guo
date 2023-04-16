@@ -168,7 +168,8 @@
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
-		"promotions":["[Formation Breaker] ability","[+10]% strength <when fighting units from a Civilization with more Cities than you>","[+50]% Strength <vs [Mounted] units>"],
+		"promotions":["[Formation Breaker] ability"],
+		"uniques":["[+10]% strength <when fighting units from a Civilization with more Cities than you>","[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	}
 ]

@@ -35,7 +35,7 @@
 		"replaces": "Pasture",
 		"turnsToBuild": 8,
 		"techRequired": "Animal Husbandry",
-		"uniques": ["Tile provides yield without assigned population","[+1 Food] <after discovering [Fertilizer]>", "[+1 Gold] from [Cattle] tiles", "[+1 Production] from [Horse] tiles <after discovering <Chivalry>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"uniques": ["Tile provides yield without assigned population","[+1 Food] <after discovering [Fertilizer]>", "[+1 Gold] from [Cattle] tiles", "[+1 Production] from [Horses] tiles <after discovering [Chivalry]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "P"
 	}
 ]
