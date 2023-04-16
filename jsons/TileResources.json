@@ -2,5 +2,11 @@
     {
         "name": "Heirloom Seal",
 		"resourceType": "Luxury"
+    },
+    {
+        "name": "Shu Tapestry",
+		"resourceType": "Luxury",
+        "gold": 1,
+        "culture": 1
     }
 ]

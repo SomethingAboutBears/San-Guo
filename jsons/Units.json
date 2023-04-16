@@ -89,6 +89,21 @@
 		"movement": 2
 	},
 	{
+		"name": "Yi Spearman",
+		"unitType": "Sword",
+		"uniqueTo": "Yizhou",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 11,
+		"cost": 56,
+		"requiredTech": "Bronze Working",
+		"obsoleteTech": "Civil Service",
+		"upgradesTo": "Pikeman",
+		"promotions":["Drill I"],
+		"uniques": ["+20% Strength <when fighting in [Rough terrain] tiles","[+50]% Strength <vs [Mounted] units>"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Celestial Master",
 		"unitType": "Sword",
 		"uniqueTo": "Hanning",
@@ -101,6 +116,22 @@
 		"obsoleteTech": "Steel",
 		"hurryCostModifier": 20,
 		"uniques": ["Can [Spread Religion] [2] times"],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Monk",
+		"unitType": "Sword",
+		"uniqueTo": "Yangzhou",
+		"replaces": "Swordsman",
+		"movement": 2,
+		"strength": 14,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Steel",
+		"hurryCostModifier": 20,
+		"uniques": ["[+25]% Strength <vs [Melee] units>"],
+		"promotions": ["March"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -144,7 +175,7 @@
 	{
 		"name": "Xiongnu Horse Archer",
 		"unitType": "Archery",
-		"uniqueTo": "Lu Bu Faction",
+		"uniqueTo": "Henei",
 		"replaces": "Chariot Archer",
 		"movement": 4,
 		"strength": 9,

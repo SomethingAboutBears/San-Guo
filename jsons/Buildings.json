@@ -35,6 +35,13 @@
 		"requiredTech": "Drama and Poetry"
 	},
 	{
+		"name": "Shu Xiu Workshop",
+		"uniqueTo": "Yizhou",
+		"hurryCostModifier": 25,
+		"uniques":["Must have an owned [Silk] within [3] tiles","[+2 Gold] from [Silk] tiles [in this city]","Provides [2] [Shu Tapestry]"],
+		"requiredTech": "Currency"
+	},
+	{
 		"name": "Natural Harbor",
 		"replaces": "Harbor",
 		"uniqueTo": "Jiaozhou",
@@ -65,6 +72,17 @@
 		"cityStrength": 2,
 		"cost": 1,
 		"uniques": ["Indicates the capital city","Provides [1] [Heirloom Seal]"]
+	},
+	{
+		"name": "Golden Statue",
+		"replaces": "Shrine",
+		"uniqueTo": "Yangzhou",
+		"faith": 1,
+		"happiness": 1,
+		"cost": 40,
+		"maintenance": 2,
+		"requiredTech": "Pottery",
+		"uniques": ["Hidden when religion is disabled","[20]% Great Person generation [in this city]"]
 	},
 	{
 		"name": "Guan",
