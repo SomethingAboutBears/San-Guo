@@ -1,0 +1,515 @@
+[
+	{
+		"name": "Cao Wei",
+		"leaderName": "Cao Cao",
+		"adjective": ["Wei"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [201,29,9],
+		"innerColor": [247,207,137],
+		"uniqueName": "Sword of Heaven",
+		"uniques": ["Free [Great General] appears <upon declaring war with a major Civilization>", "Starts with [Honor] adopted","Great General provides double combat bonus"],
+		"cities": ["Luoyang","Xuchang"]
+	},
+	{
+		"name": "Shu Han",
+		"leaderName": "Liu Bei",
+		"adjective": ["Shu"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [255,210,229],
+		"innerColor": [45,109,105],
+		"uniqueName": "Benevolent Mandate",
+		"uniques": ["[+100]% Production when constructing [Courthouse] buildings <in annexed cities>","[+2 Happiness] <in cities with a [Courthouse]>","[+10]% [Production] <while the empire is happy>"],
+		"cities": ["Chengdu"]
+	},
+	{
+		"name": "Jizhou",
+		"leaderName": "Yuan Shao",
+		"adjective": ["Jizhou"],
+		"startBias": ["Grassland","Hill"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [255,255,173],
+		"innerColor": [4,4,2],
+		"uniqueName": "Coalition Against the Tyrant",
+		"uniqueText": "Allied City-States provide 33% of their GPT. Militaristic City-States provide troops twice as fast when at war with a common enemy, and gifted troops start with 15 XP.",
+		"uniques": ["Allied City-States provide [Gold] equal to [-33]% of what they produce for themselves","Military Units gifted from City-States start with [+15] XP","City-State territory always counts as friendly territory","Militaristic City-States grant units [2] times as fast when you are at war with a common nation"],
+		"cities": ["Ye"]
+	},
+	{
+		"name": "Eastern Wu",
+		"leaderName": "Sun Quan",
+		"adjective": ["Wu"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [144,50,86],
+		"innerColor": [211,211,232],
+		"uniqueName": "",
+		"uniques": ["[Land] units gain the [Amphibious] promotion","[+100]% Experience <for [Water] units> <during a Golden Age>","[+1 Production] from [River] tiles [in all cities]"],
+		"cities": ["Jianye","Wuchang"]
+	},
+	{
+		"name": "Jingzhou",
+		"leaderName": "Liu Biao",
+		"adjective": ["Jingzhou"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [179,159,252],
+		"innerColor": [62,34,17],
+		"uniqueName": "",
+		"uniqueText": "+50% culture in all cities with a wonder when at peace, -25% culture in all cities when at war.",
+		"uniques": ["[+50]% [Culture] [in all cities with a world wonder] <when not at war>","[-25]% [Culture] [in all cities] <when at war>"],
+		"cities": ["Xiangyang"]
+	},
+	{
+		"name": "Yizhou",
+		"leaderName": "Liu Zhang",
+		"adjective": ["Yizhou"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [195,164,117],
+		"innerColor": [108,47,17],
+		"uniqueName": "",
+		"uniqueText": "",
+		"uniques": ["[25]% Yield from every [Hill]","[+1 Gold, +2 Production] in cities on [Hill] tiles"],
+		"cities": ["Chengdu"]
+	},
+	{
+		"name": "Hanning",
+		"leaderName": "Zhang Lu",
+		"adjective": ["Hanning"],
+		"startBias": ["Avoid [Forest]"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [65,76,64],
+		"innerColor": [196,255,233],
+		"uniqueName": "Way of the Five Pecks of Rice",
+		"uniques": ["[+1] population [in this city] <upon constructing [World Wonder]>","[-25]% Unhappiness from [Followers of the Majority Religion] [in all cities]"],
+		"cities": ["Hanzhong"]
+	},
+	{
+		"name": "Liangzhou",
+		"leaderName": "Ma Teng",
+		"adjective": ["Liangzhou"],
+		"startBias": ["Plains","Desert"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [231,231,233],
+		"innerColor": [76,62,115],
+		"uniqueName": "",
+		"uniques": ["[-50]% maintenance on road & railroads","[+50]% Production when constructing [Mounted] units [in all cities]", "[Gold] cost of purchasing [Mounted] units [-25]%"],
+		"cities": ["Wuwei"]
+	},
+	{
+		"name": "Jiaozhou",
+		"leaderName": "Shi Xie",
+		"adjective": ["Jiaozhou"],
+		"startBias": ["River","Coast","Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [245,227,53],
+		"innerColor": [61,69,78],
+		"uniqueName": "King of Two Worlds",
+		"uniques": ["[+25]% [Gold] from Trade Routes","[+1 Happiness] from every [Strategic resource]","[+1 Happiness] from every [Bonus resource]"],
+		"cities": [""]
+	},
+	{
+		"name": "Kuaiji",
+		"leaderName": "Wang Lang",
+		"adjective": ["Kuaiji"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [32,141,159],
+		"innerColor": [66,58,44],
+		"uniqueName": "Scholasticism",
+		"uniqueText": "Receive free science buildings in your capital as you research them.",
+		"uniques": ["Gain a free [Library] [in capital] <after discovering [Writing]>","Gain a free [University] [in capital] <after discovering [Education]>","Gain a free [Public School] [in capital] <after discovering [Scientific Theory]>","Gain a free [Research Lab] [in capital] <after discovering [Plastics]>"],
+		"cities": ["Kuaiji"]
+	},
+	{
+		"name": "Zhong Dynasty",
+		"leaderName": "Yuan Shu",
+		"adjective": ["Zhong"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [157,198,197],
+		"innerColor": [75,50,79],
+		"uniqueName": "Superstitious Pretender",
+		"uniques": ["[+50]% Production when constructing [Civilian] units [in all cities]", "[+25]% of excess happiness converted to [Production]","[-15]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"cities": ["Chenliu"]
+	},
+	{
+		"name": "Yangzhou",
+		"leaderName": "Liu Yao",
+		"adjective": ["Yangzhou"],
+		"startBias": ["Avoid [Desert]"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [186,234,172],
+		"innerColor": [33,27,29],
+		"uniqueName": "",
+		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion","May choose [1] additional belief(s) of any type when [enhancing] a religion","Starts with [Piety] adopted"],
+		"cities": ["Moling"]
+	},
+	{
+		"name": "Dong Zhuo Faction",
+		"leaderName": "Dong Zhuo",
+		"adjective": ["Dong Zhuo Faction"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [30,30,30],
+		"innerColor": [228,14,19],
+		"uniqueName": "Reign of Terror",
+		"uniques": ["[-25]% Unhappiness from [Population] [in all cities]","[+2 Gold] [in all cities]","[+15]% Strength <when attacking>","[-15]% Strength <when defending>"],
+		"cities": ["Chang'an","Xi'an"]
+	},
+	{
+		"name": "Henei",
+		"leaderName": "Zhang Yang",
+		"adjective": ["Henei"],
+		"startBias": ["Plains","Avoid [Jungle]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [226,107,2],
+		"innerColor": [53,29,61],
+		"uniqueName": "",
+		"uniques": ["Double quantity of [Horses] produced","Free [Worker] appears <after discovering [Horseback Riding]>"],
+		"cities": ["Shangdang"]
+	},
+	{
+		"name": "Lu Bu Faction",
+		"leaderName": "Lu Bu",
+		"adjective": ["Lu Bu Faction"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "test",
+		"startIntroPart2": "test",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": [""],
+		"neutralNo": [""],
+		"neutralYes": [""],
+
+		"hateHello": "",
+		"hateLetsHearIt": [""],
+		"hateNo": [""],
+		"hateYes": [""],
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [23,79,153],
+		"innerColor": [247,212,146],
+		"uniqueName": "",
+		"uniques": ["[+10]% Strength <for [5] turns> <upon declaring friendship>","[+15]% Strength <vs cities>","[+1 Happiness, +2 Gold] from all [Training Field] buildings <when at war>"],
+		"cities": ["Puyang"]
+	}
+]
