@@ -100,7 +100,7 @@
 		"obsoleteTech": "Civil Service",
 		"upgradesTo": "Pikeman",
 		"promotions":["Drill I"],
-		"uniques": ["+20% Strength <when fighting in [Rough terrain] tiles","[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["+20% Strength <when fighting in [Rough terrain] tiles>","[+50]% Strength <vs [Mounted] units>"],
 		"attackSound": "metalhit"
 	},
 	{
